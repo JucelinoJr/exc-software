@@ -9,10 +9,6 @@ header {
   background-image: linear-gradient(to right,black,salmon, Black)
 }
 
-section {
-  padding: 150px 0;
-}
-
 #about{
   background-image: url("background.jpg");
   background-repeat: round;
